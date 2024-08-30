@@ -1,0 +1,6 @@
+insatall i3 from sudo apt insatall
+insatall picom repo and build it from https://github.com/yshui/picom
+install sxhkd from sudo apt insatall
+install sudo apt feh
+import dotfiles
+clone https://github.com/Airblader/i3blocks-gaps i3blocks (video https://github.com/Airblader/i3blocks-gaps)
